@@ -1,7 +1,7 @@
 # Nala-Rocks-Challenge
 Aplicacion desarrollada para el desafío técnico de Nala Rocks.
 
-Para poder correr el proyecto es necesario usar el comando git clone url.
+Para poder correr el proyecto es necesario usar el comando git clone https://github.com/MarcelloCQ/Nala-Rocks-Challenge.git
 Una vez descargado el proyecto, es necesario tener instalado NodeJS v16 o superior, ya que
 está generado con vitejs (https://vitejs.dev/).
 
