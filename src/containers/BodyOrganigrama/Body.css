@@ -1,0 +1,17 @@
+.xlsx-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  width: 60%;
+}
+
+.datatable-container {
+  width: 70%;
+  height: 300px;
+  overflow: auto;
+}
+
+.alert-msg {
+  color: red;
+}

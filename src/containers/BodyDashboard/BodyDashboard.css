@@ -1,0 +1,69 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  width: 100%;
+  padding: 5px 40px 0 40px;
+}
+
+.top-dashboard-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.button-container {
+  display: flex;
+  width: 20%;
+  justify-content: end;
+  padding: 15px 60px 15px 15px;
+  margin: 0;
+}
+
+.filtros-container {
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  margin: 0;
+  gap: 1em;
+  align-items: center;
+}
+
+.span-filtro {
+  width: 260px;
+}
+
+.print-container {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 60px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  width: 150px;
+  height: 100%;
+}
+
+.importe-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+}
+
+.span-filtro-importe {
+  border: solid 1px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  width: 10%;
+}
